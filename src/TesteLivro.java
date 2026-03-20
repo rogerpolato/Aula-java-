@@ -3,7 +3,7 @@ public class TesteLivro {
         Livro meuLivro = new Livro();
         meuLivro.Titulo = "Java";
         meuLivro.autor = "Java";
-        meuLivro.preco = "Java";
+        meuLivro.preco = 45;
         System.out.println(meuLivro.Titulo);
         System.out.println(meuLivro.autor);
         System.out.println(meuLivro.preco);

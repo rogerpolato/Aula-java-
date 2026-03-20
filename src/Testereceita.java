@@ -1,4 +1,4 @@
-public class Testereceita
+public class Testereceita{
     public static void main(String[] args){
       // criar objetos
       Receita minhaReceita = new Receita();
